@@ -27,8 +27,8 @@ import { qylTheme } from './themes/qyl';
 // pddTheme,
 // owTheme,
 const themes = [
-    qylTheme,
     defaultTheme,
+    qylTheme,   
 ];
 
 // 最大关卡
