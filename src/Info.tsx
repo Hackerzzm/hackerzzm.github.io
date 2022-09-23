@@ -19,19 +19,11 @@ export const Info: FC = () => {
                 </a>
                 、
                 <a
-                    href="https://music.163.com/#/song?id=135022"
+                    href="https://music.163.com/#/song?id=1847408145"
                     target="_blank"
                     rel="noreferrer"
                 >
-                    贫民百万歌星
-                </a>
-                、
-                <a
-                    href="https://y.qq.com/n/ryqq/songDetail/0020Nusb3QJGn9"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    只因你太美
+                    月亮代表我的心
                 </a>
             </p>
             <p>

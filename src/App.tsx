@@ -18,15 +18,17 @@ import { pddTheme } from './themes/pdd';
 import { BeiAn } from './BeiAn';
 import { Info } from './Info';
 import { owTheme } from './themes/ow';
+import { qylTheme } from './themes/qyl';
 
 // 主题
+// fishermanTheme,
+// jinlunTheme,
+// ikunTheme,
+// pddTheme,
+// owTheme,
 const themes = [
+    qylTheme,
     defaultTheme,
-    fishermanTheme,
-    jinlunTheme,
-    ikunTheme,
-    pddTheme,
-    owTheme,
 ];
 
 // 最大关卡
