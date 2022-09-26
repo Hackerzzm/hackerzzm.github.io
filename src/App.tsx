@@ -18,6 +18,7 @@ import { pddTheme } from './themes/pdd';
 import { BeiAn } from './BeiAn';
 import { Info } from './Info';
 import { owTheme } from './themes/ow';
+import { roumaTheme } from './themes/rouma';
 import { qylTheme } from './themes/qyl';
 
 // 主题
@@ -26,10 +27,7 @@ import { qylTheme } from './themes/qyl';
 // ikunTheme,
 // pddTheme,
 // owTheme,
-const themes = [
-    defaultTheme,
-    qylTheme,   
-];
+const themes = [defaultTheme, qylTheme, roumaTheme];
 
 // 最大关卡
 const maxLevel = 50;
